@@ -1,0 +1,4 @@
+# The demo's HTML requests noindex. Allow crawling so that search engines
+# can read that directive; this file does not restrict access to the site.
+User-agent: *
+Allow: /
